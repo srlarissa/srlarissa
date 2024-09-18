@@ -4,6 +4,8 @@
 
 ![Lari GitHub stats](https://github-readme-stats.vercel.app/api?username=srlarissa&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srlarissa&langs_count=8)
+
 ## Tecnologias mais presentes no meu dia-a-dia:
 
 <div style="display:inline_block">
