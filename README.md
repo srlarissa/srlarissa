@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fd43305c-f92c-4de8-ba23-623ea12bda7b" />### Olá! Sou Larissa Soares Reis 😊
+### Olá! Sou Larissa Soares Reis 😊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/larissa-soares-reis-17372426a)
 
